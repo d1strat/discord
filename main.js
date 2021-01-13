@@ -31,9 +31,7 @@ client.once('ready', () => {
 
 client.on('message', message =>{
 
-    message.member.roles.cache.has
-
-
+    
     if(!message.content.startsWith(prefix) || message.author.bot) return;
 
 
