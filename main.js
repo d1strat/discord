@@ -26,7 +26,7 @@ for(const file of commandFiles){
 
 
 client.once('ready', () => {
-    console.log('disc.bot is online!');
+    console.log('Maru-chan is online!');
 });
 
 client.on('message', message =>{
@@ -63,5 +63,5 @@ client.on('message', message =>{
 
 
 
-client.login('Nzk4MzUyODE2MzIxOTg2NTcw.X_zyAA.XPdEAQn_hlcKHwwAOJ4SMW5oSf4');
+client.login('TOKEN');
 
