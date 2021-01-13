@@ -1,7 +1,7 @@
 module.exports= {
     name: 'ping',
-    description: "this is a ping command!",
+    description: "to test the bot is online or not",
     execute(message, args){
-        message.channel.send('hi!');
+        message.channel.send('ENTER YOUR TEXT HERE');
     }
 }
