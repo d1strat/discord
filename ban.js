@@ -1,6 +1,6 @@
 module.exports= {
     name: 'ban',
-    description: 'for checking if u have the ban permission or not',
+    description: 'for checking if u have the ban permission or not', //not a perms to ban someone but to check if u have the permission or not, u can edit this by changing discord flags command to another discord flags command and edit it on main.js aswell
     
     execute(message, args) {
 
