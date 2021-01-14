@@ -1,11 +1,17 @@
 # Hellooo~~
 
 This is my first time using GitHub and also my first time learning about programming etc
-Hope u guys welcome me >.<
+Hope u guys welcome me 
+
+>.<
 
 
 This is the 1st project i made 
-DiscordBot
+
+
+##DiscordBot
+
+
 So i try to make my first discordbot using vsc
 and its pretty hard
 i still need to learn java languange
